@@ -40,7 +40,6 @@ const Home = () => {
         <div className="circle"></div>
         <div className="box box-bottom"></div>
       </div>
-      <a href="https://facebook.com">browse facebook</a>
     </body>
   );
 };
